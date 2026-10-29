@@ -127,3 +127,6 @@ The configuration details are as follows:
 
 After completing the network configuration and establishing the connection, I tested the internet connectivity of the Kali Linux virtual machine to confirm that it could access external networks. The connection was successful. I also executed a ping command to `google.com` in the Kali Linux terminal to verify network communication and DNS resolution. The test was successful, confirming that the virtual machine could resolve the domain name and communicate with the external network.
 
+![Screenshot 5](Screenshot%205.png)
+
+![Screenshot 6](Screenshot%206.png)
