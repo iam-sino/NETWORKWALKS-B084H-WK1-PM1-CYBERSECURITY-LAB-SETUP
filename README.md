@@ -80,3 +80,17 @@ Since Kali Linux had already been installed and imported into VirtualBox, initia
 - Virtual Cable Connected: Enabled
 
 ![Screenshot 2](Screenshot%202.png)
+
+
+## Step 3. Configure the Kali Linux Network
+
+After connecting Kali Linux to the NAT Network, I proceeded to configure its IPv4 network settings by assigning a consistent IP address and specifying the appropriate subnet mask, default gateway, and DNS server.
+
+The configuration details are as follows:
+
+- IP Address: 10.0.0.2
+- Subnet Mask (Netmask): 255.255.255.0 (/24)
+- Default Gateway: 10.0.0.1
+- DNS Server: 10.0.0.1
+
+**Note:** The subnet mask `255.255.255.0` is equivalent to the CIDR prefix `/24`. Both represent the same network prefix length.
