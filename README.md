@@ -142,7 +142,7 @@ The snapshot serves as a baseline recovery point, preserving the virtual machine
 
 
 ## Problems Encountered & Solutions
-## -Internet Connectivity After Static IP Configuration
+### -Internet Connectivity After Static IP Configuration
 Following the manual configuration of the IPv4 settings, an internet connectivity issue occurred in the Kali Linux virtual machine.
 
 ### Solution
@@ -150,4 +150,30 @@ Following the manual configuration of the IPv4 settings, an internet connectivit
 I restored the virtual machine to its previously created snapshot and changed the DNS server address from `8.8.8.8` to `10.0.0.1`. After applying this change, the connectivity issue was resolved, and the virtual machine was able to access the internet successfully.
 
 
-### What I Learned
+## What I Learned
+
+This project provided practical experience in setting up and managing a virtual environment for cybersecurity training. It also improved my understanding of virtual networking, IP configuration, system recovery, and technical documentation.
+
+The key lessons gained from the project are outlined below.
+
+### 1. Difference Between NAT and NAT Network
+
+I learned that NAT and NAT Network operate differently in VirtualBox. While a standard NAT configuration generally provides network access for an individual virtual machine, a NAT Network allows multiple connected virtual machines to communicate with one another while also supporting external network access.
+
+This makes NAT Network suitable for developing a laboratory with multiple virtual machines for cybersecurity practice.
+
+### 2. Virtual Machine Network Configuration
+
+I gained a better understanding of how VirtualBox network adapters connect virtual machines to virtual networks. I also learned that selecting and configuring the appropriate network settings is essential for establishing communication and internet access.
+
+### 3. Static IPv4 Address Configuration
+
+I learned how to configure IPv4 network settings in Kali Linux, including the IP address, subnet mask, default gateway, and DNS server. I also gained practical experience in troubleshooting connectivity issues that may arise from incorrect network settings.
+
+### 4. Virtual Machine Snapshots and Recovery
+
+I learned the importance of creating snapshots to preserve a known working state of a virtual machine. A suitable baseline snapshot provides a recovery point that can be used to restore the machine if future experiments cause configuration problems. Creating a snapshot before potentially disruptive activities is therefore an important practice.
+
+### 5. Technical Documentation
+
+I learned that proper documentation is an essential part of a cybersecurity project. Recording configuration settings, commands, screenshots, challenges, and solutions makes the process easier to understand, reproduce, and troubleshoot in the future.
