@@ -139,3 +139,15 @@ After completing the initial configuration, I created a new snapshot of the Kali
 The snapshot serves as a baseline recovery point, preserving the virtual machine's state at the time it was created. If future cybersecurity exercises result in unwanted changes or configuration issues, the virtual machine can be restored to this saved state, provided the snapshot remains available.
 
 ![Screenshot 7](Screenshot%207.png)
+
+
+## Problems Encountered & Solutions
+## -Internet Connectivity After Static IP Configuration
+Following the manual configuration of the IPv4 settings, an internet connectivity issue occurred in the Kali Linux virtual machine.
+
+### Solution
+
+I restored the virtual machine to its previously created snapshot and changed the DNS server address from `8.8.8.8` to `10.0.0.1`. After applying this change, the connectivity issue was resolved, and the virtual machine was able to access the internet successfully.
+
+
+### What I Learned
