@@ -130,3 +130,11 @@ After completing the network configuration and establishing the connection, I te
 ![Screenshot 5](Screenshot%205.png)
 
 ![Screenshot 6](Screenshot%206.png)
+
+
+## Step 5. Creation of a Clean VM Snapshot
+
+After completing the initial configuration, I created a new snapshot of the Kali Linux virtual machine specifically for this project. Although an existing snapshot was already available for my other projects, I decided to create a separate one to maintain a clear distinction between the different laboratory environments.
+
+The snapshot serves as a baseline recovery point, preserving the virtual machine's state at the time it was created. If future cybersecurity exercises result in unwanted changes or configuration issues, the virtual machine can be restored to this saved state, provided the snapshot remains available.
+
