@@ -44,7 +44,6 @@ You should only perform any testing in the lab or on systems that you have been 
 ## Lab Configuration
 
 
-  Component	         Configuration
   
   Host OS:           	Windows 11
   
