@@ -40,18 +40,30 @@ You should only perform any testing in the lab or on systems that you have been 
 
 
 
+
 ## Lab Configuration
 
+
   Component	         Configuration
+  
   Host OS           	Windows 11
+  
   Host RAM    	      16 GB
+  
   Processor         	Intel Core i5
+  
   Security OS	        Kali Linux 2026.3
+  
   Virtual Network	    NAT Network
+  
   Network Address   	10.0.0.0/24
+  
   Kali IP Address   	10.0.0.2/24
+  
   Default Gateway   	10.0.0.1
+  
   DNS Server	        10.0.0.1
+  
 
 
 ## Lab Setup Procedure
