@@ -9,7 +9,8 @@ This lab has been created so that there is a designated space to learn and perfo
 
 The lab is set up on a private virtual network meaning the virtual machines can interact with each other. This can be extended in the future by adding more virtual machines to allow authorised penetration testing, security analysis and cybersecurity practices to take place.
 
-#Objectives
+#Project Objectives
+
 During this project I will be achieving the following objectives;
 
 1. Set up a virtualisation platform using Oracle VirtualBox.
@@ -21,3 +22,18 @@ During this project I will be achieving the following objectives;
 7. Take a snapshot of the virtual machine to allow me to revert back to a stable point.
 8. Document the installation, configuration and testing processes.
 9. Provide a base to allow me to complete further Cybersecurity learning and authorised penetration testing activities.
+
+## Lab Objective
+
+This lab will create a safe and secure environment to gain practical experience with a range of security tools.
+This will allow you to practice using a variety of security techniques like:
+
+-Network Discovery. Allows you to determine what devices and systems are available over a network.
+-Port Scanning. This determines what ports are available over a network.
+-Vulnerability Analysis. Determine what vulnerabilities exist on a system.
+-Packet Capture. This allows you to capture and analyse packets.
+-Web Application Testing. To identify common security issues with web applications.
+-Penetration Testing. Practice using penetration testing techniques.
+-Security Tools. Gain an understanding of security tools.
+
+You should only perform any testing in the lab or on systems that you have been given permission to.
