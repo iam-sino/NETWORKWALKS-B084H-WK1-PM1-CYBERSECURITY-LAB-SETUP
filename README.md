@@ -141,6 +141,17 @@ The snapshot serves as a baseline recovery point, preserving the virtual machine
 ![Screenshot 7](Screenshot%207.png)
 
 
+## Lab Verification
+
+To confirm that the virtual cybersecurity laboratory was configured correctly, several verification tests were carried out. These tests were designed to check the Kali Linux IP address, gateway connectivity, internet access, DNS resolution, Nmap installation, and snapshot recovery.
+
+The `ip a` command was used to inspect the network interfaces and verify the IP address assigned to Kali Linux. The `ping 10.0.0.1` command was used to test connectivity to the default gateway, while `ping 10.0.0.1` was used to check internet connectivity through a public IP address.
+
+DNS resolution was tested using `google.com` to determine whether the domain name could be resolved to an IP address. The Nmap installation was checked by running `nmap --version`, which displays the installed version of the tool.
+
+Finally, the snapshot recovery process was verified by restoring the saved snapshot and running `ip a` to check whether the virtual machine's baseline network configuration had been restored.
+
+
 ## Problems Encountered & Solutions
 ### -Internet Connectivity After Static IP Configuration
 Following the manual configuration of the IPv4 settings, an internet connectivity issue occurred in the Kali Linux virtual machine.
