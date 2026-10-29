@@ -68,9 +68,10 @@ This will allow new virtual machines to be added in the future. One can be used 
 
 
 
-## Step 2. The network adapter of the Kali Linux virtual machine was configured with the following settings:
 
-Since Kali Linux had already been installed and imported into VirtualBox, I proceeded directly to its network adapter settings and configured Adapter 1 as follows:
+## Step 2. The network adapter of the Kali Linux virtual machine was configured.
+
+Since Kali Linux had already been installed and imported into VirtualBox, initially I was supposed to download Kali Linux virtual machine from the official Kali Linux website and imported into VirtualBox, I proceeded directly to its network adapter settings and configured Adapter 1 as follows:
 
 - Attached to: NAT Network
 - Network Name: NatNetwork
@@ -78,4 +79,4 @@ Since Kali Linux had already been installed and imported into VirtualBox, I proc
 - Promiscuous Mode: Allow All
 - Virtual Cable Connected: Enabled
 
-![Screenshot 2](./Screenshot%201.png)
+![Screenshot 2](./Screenshot.png)
