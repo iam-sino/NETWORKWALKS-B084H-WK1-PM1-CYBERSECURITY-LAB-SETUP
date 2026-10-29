@@ -1,10 +1,23 @@
 # NETWORKWALKS-B084H-WK1-PM1-CYBERSECURITY-LAB-SETUP
 Organized a Cybersecurity home lab.
 
-##Project Overview
+#Project Overview
 
 A virtual lab was created using Oracle VirtualBox and Kali Linux to simulate cybersecurity practices and penetration testing.
 
 This lab has been created so that there is a designated space to learn and perform security related tasks such as network scanning, information gathering, vulnerability analysis and using different cybersecurity tools. Using a virtual lab allows us to practice these techniques in a safe environment.
 
 The lab is set up on a private virtual network meaning the virtual machines can interact with each other. This can be extended in the future by adding more virtual machines to allow authorised penetration testing, security analysis and cybersecurity practices to take place.
+
+#Objectives
+During this project I will be achieving the following objectives;
+
+1. Set up a virtualisation platform using Oracle VirtualBox.
+2. Install and configure Kali Linux inside VirtualBox.
+3. Create a specific NAT Network for use across my machines in my lab.
+4. Configure the network settings on Kali Linux.
+5. Assign a static IP address to the Kali Linux virtual machine to make it easier to identify on the network.
+6. Verify the network connection and ensure that Domain Name Resolution is working.
+7. Take a snapshot of the virtual machine to allow me to revert back to a stable point.
+8. Document the installation, configuration and testing processes.
+9. Provide a base to allow me to complete further Cybersecurity learning and authorised penetration testing activities.
