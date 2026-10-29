@@ -67,6 +67,7 @@ This will allow new virtual machines to be added in the future. One can be used 
 ![Screenshot 1](./Screenshot%201.png)
 
 
+
 ## Step 2. The network adapter of the Kali Linux virtual machine was configured with the following settings:
 
 Since Kali Linux had already been installed and imported into VirtualBox, I proceeded directly to its network adapter settings and configured Adapter 1 as follows:
@@ -76,3 +77,5 @@ Since Kali Linux had already been installed and imported into VirtualBox, I proc
 - Adapter Type: Intel PRO/1000 MT Desktop
 - Promiscuous Mode: Allow All
 - Virtual Cable Connected: Enabled
+
+![Screenshot 2](./Screenshot%201.png)
