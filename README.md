@@ -79,4 +79,4 @@ Since Kali Linux had already been installed and imported into VirtualBox, initia
 - Promiscuous Mode: Allow All
 - Virtual Cable Connected: Enabled
 
-![Screenshot 2](./Screenshot.png)
+![Screenshot 2](Screenshot%202.png)
