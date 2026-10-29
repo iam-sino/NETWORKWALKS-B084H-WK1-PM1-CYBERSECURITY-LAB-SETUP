@@ -28,12 +28,12 @@ During this project I will be achieving the following objectives;
 This lab will create a safe and secure environment to gain practical experience with a range of security tools.
 This will allow you to practice using a variety of security techniques like:
 
--Network Discovery. Allows you to determine what devices and systems are available over a network.
--Port Scanning. This determines what ports are available over a network.
--Vulnerability Analysis. Determine what vulnerabilities exist on a system.
--Packet Capture. This allows you to capture and analyse packets.
--Web Application Testing. To identify common security issues with web applications.
--Penetration Testing. Practice using penetration testing techniques.
--Security Tools. Gain an understanding of security tools.
+1. Network Discovery. Allows you to determine what devices and systems are available over a network.
+2. Port Scanning. This determines what ports are available over a network.
+3. Vulnerability Analysis. Determine what vulnerabilities exist on a system.
+4. Packet Capture. This allows you to capture and analyse packets.
+5. Web Application Testing. To identify common security issues with web applications.
+6. Penetration Testing. Practice using penetration testing techniques.
+7. Security Tools. Gain an understanding of security tools.
 
 You should only perform any testing in the lab or on systems that you have been given permission to.
