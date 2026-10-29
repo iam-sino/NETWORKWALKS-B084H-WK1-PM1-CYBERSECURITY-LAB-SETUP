@@ -94,3 +94,7 @@ The configuration details are as follows:
 - DNS Server: 10.0.0.1
 
 **Note:** The subnet mask `255.255.255.0` is equivalent to the CIDR prefix `/24`. Both represent the same network prefix length.
+
+![Screenshot 3](Screenshot%203.png)
+
+![Screenshot 4](Screenshot%204.png)
