@@ -190,11 +190,11 @@ I learned the importance of creating snapshots to preserve a known working state
 I learned that proper documentation is an essential part of a cybersecurity project. Recording configuration settings, commands, screenshots, challenges, and solutions makes the process easier to understand, reproduce, and troubleshoot in the future.
 
 
-# Security and Ethical Considerations
+## Security and Ethical Considerations
 
 This laboratory is designed exclusively for educational purposes and authorized cybersecurity testing. All security assessments and practical exercises must be conducted within the controlled lab environment or on systems for which proper permission has been obtained.
 
-# Tools & Resources you can get thme from.
+## Tools & Resources you can get thme from.
 
 7-Zip: https://7-zip.org/download.html
 
@@ -203,11 +203,11 @@ VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
 
 
-# Author
+## Author
 Sunday Ode
 
 Linkedin: https://www.linkedin.com/in/sunday-ode-5a47573b3?
 
 
-# Project Information
+## Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
