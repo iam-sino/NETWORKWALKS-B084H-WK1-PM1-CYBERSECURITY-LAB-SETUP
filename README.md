@@ -138,3 +138,4 @@ After completing the initial configuration, I created a new snapshot of the Kali
 
 The snapshot serves as a baseline recovery point, preserving the virtual machine's state at the time it was created. If future cybersecurity exercises result in unwanted changes or configuration issues, the virtual machine can be restored to this saved state, provided the snapshot remains available.
 
+![Screenshot 7](Screenshot%203.png)
