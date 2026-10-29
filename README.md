@@ -64,5 +64,5 @@ The NAT Network option has been chosen as it allows the virtual machines connect
 This will allow new virtual machines to be added in the future. One can be used for security testing and one as the target in the lab.
 
 
-![Project Screenshot 1](attachment.png)
+![Screenshot 1](attachment.png)
 
