@@ -46,4 +46,19 @@ You should only perform any testing in the lab or on systems that you have been 
 
 ## Step 1. Creation of the NAT Network, WHY?
 
+Because, Since VirtualBox and Kali Linux have already been installed and configured on my computer, I proceeded directly to the next stage of the project, which involved creating an additional NAT Network.
 
+Initially, the setup process was supposed to begin with the installation of 7-Zip, which is used to extract the Kali Linux virtual machine package. The second step was to install Oracle VirtualBox, which serves as the hypervisor for running virtual machines.
+
+However, because both applications were already installed on my computer, I skipped these preliminary steps and proceeded to create a new NAT Network in VirtualBox. I already had an existing network named *Lab Network* for personal use, so I created a separate NAT Network specifically for this project.
+
+The new NAT Network was configured with the following settings:
+
+- **Network Name:** NAT Network
+- **IPv4 Prefix:** 10.0.0.0/24
+- **DHCP:** Enabled
+- **IPv6:** Disabled
+
+The NAT Network option has been chosen as it allows the virtual machines connected to the network to talk to each other and external networks.
+
+This will allow new virtual machines to be added in the future. One can be used for security testing and one as the target in the lab.
