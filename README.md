@@ -54,10 +54,10 @@ However, because both applications were already installed on my computer, I skip
 
 The new NAT Network was configured with the following settings:
 
-- **Network Name:** NAT Network
-- **IPv4 Prefix:** 10.0.0.0/24
-- **DHCP:** Enabled
-- **IPv6:** Disabled
+- Network Name: NAT Network
+- IPv4 Prefix: 10.0.0.0/24
+- DHCP: Enabled
+- IPv6: Disabled
 
 The NAT Network option has been chosen as it allows the virtual machines connected to the network to talk to each other and external networks.
 
@@ -71,8 +71,8 @@ This will allow new virtual machines to be added in the future. One can be used 
 
 Since Kali Linux had already been installed and imported into VirtualBox, I proceeded directly to its network adapter settings and configured Adapter 1 as follows:
 
-- **Attached to:** NAT Network
-- **Network Name:** NatNetwork
-- **Adapter Type:** Intel PRO/1000 MT Desktop
-- **Promiscuous Mode:** Allow All
-- **Virtual Cable Connected:** Enabled
+- Attached to: NAT Network
+- Network Name: NatNetwork
+- Adapter Type: Intel PRO/1000 MT Desktop
+- Promiscuous Mode: Allow All
+- Virtual Cable Connected: Enabled
