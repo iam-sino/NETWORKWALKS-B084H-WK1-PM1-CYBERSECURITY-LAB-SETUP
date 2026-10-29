@@ -37,3 +37,9 @@ This will allow you to practice using a variety of security techniques like:
 7. Security Tools. Gain an understanding of security tools.
 
 You should only perform any testing in the lab or on systems that you have been given permission to.
+
+
+## Lab Configuration
+
+
+## Lab Setup Procedure
