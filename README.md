@@ -184,12 +184,17 @@ I learned that proper documentation is an essential part of a cybersecurity proj
 This laboratory is designed exclusively for educational purposes and authorized cybersecurity testing. All security assessments and practical exercises must be conducted within the controlled lab environment or on systems for which proper permission has been obtained.
 
 # Tools & Resources you can get thme from.
+
 7-Zip: https://7-zip.org/download.html
+
 VirtualBox: https://virtualbox.org/wiki/Downloads
+
 Kali Linux: https://kali.org/get-kali
+
 
 # Author
 Sunday Ode
+
 Linkedin: https://www.linkedin.com/in/sunday-ode-5a47573b3?
 
 
